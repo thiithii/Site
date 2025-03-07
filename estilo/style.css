@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    margin: 0;
+    background-color: #3d55bf;
+    color: white;
+}
+
+span#home{
+    background-color: #3d55bf;
+    border-radius: 15px;
+    font-size: 45px;
+    padding: 5%;
+    box-shadow: -8px -5px 10px 5px #1d285a;
+
+}
+span#assi{
+    background-color: #3d55bf;
+    border-radius: 15px;
+    font-size: 45px;
+    padding: 5%;
+    box-shadow: -8px -5px 10px 5px #1d285a;
+}
+span#war{
+    background-color: #3d55bf;
+    border-radius: 15px;
+    font-size: 45px;
+    padding: 5%;
+    box-shadow: -8px -5px 10px 5px #1d285a;
+}
+span#imag{
+    background-color: #3d55bf;
+    border-radius: 15px;
+    font-size: 45px;
+    padding: 5%;
+    box-shadow: -8px -5px 10px 5px #1d285a;
+}
+
+
+nav{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    border-radius: 20px 20px 0px 0px;
+    padding: 10%;
+    background-color: #5271ff;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    font-family: "Open Sans";
+    display: flex;
+}
+
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.titulo{
+    font-family: "alfa Slab One";
+    text-align: center;
+    padding: 5%;
+    margin-left:75px;
+    margin-right: 75px;
+    background-color: #3d55bf;
+    font-size: 25px;
+    border-radius: 0px 0px 40px 40px ;
+    text-shadow: 0.1em 0.1em 0.5em  black;
+    box-shadow: 0px 9px 16px 0px black;
+}
+
+.textos{
+    box-shadow: -15px 10px 10px 0px rgba(0, 0, 0, 0.401);
+    font-family: "Open Sans" ; 
+    color: black;
+    background-color: white;
+    padding: 5%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-radius: 15px;
+    font-size: 20px;
+}
+
+
+  
